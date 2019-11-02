@@ -4,3 +4,5 @@
 ## Contributing Guidlines
 git clone Url of branch
 eg. git clone https://github.com/refactor-droidyy
+for push:
+git add file name
